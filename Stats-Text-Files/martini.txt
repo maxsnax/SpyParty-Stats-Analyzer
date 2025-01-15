@@ -1,0 +1,342 @@
+=========================================================
+Aquarium : 0
+No Spy games recorded for Aquarium.
+No Sniper games recorded for Aquarium.
+=========================================================
+No spy win recorded for Aquarium.
+No spy loss recorded for Aquarium.
+No sniper win recorded for Aquarium.
+No sniper loss recorded for Aquarium.
+Mission Occurrence Percentages for Aquarium:
+  No Spy Missions recorded.
+  No Sniper Missions recorded.
+Game Outcome Percentages for Aquarium:
+  Spy Results:
+    No Spy games recorded.
+  Sniper Results:
+    No Sniper games recorded.
+=========================================================
+Balcony : 0
+No Spy games recorded for Balcony.
+No Sniper games recorded for Balcony.
+=========================================================
+No spy win recorded for Balcony.
+No spy loss recorded for Balcony.
+No sniper win recorded for Balcony.
+No sniper loss recorded for Balcony.
+Mission Occurrence Percentages for Balcony:
+  No Spy Missions recorded.
+  No Sniper Missions recorded.
+Game Outcome Percentages for Balcony:
+  Spy Results:
+    No Spy games recorded.
+  Sniper Results:
+    No Sniper games recorded.
+=========================================================
+Ballroom : 0
+No Spy games recorded for Ballroom.
+No Sniper games recorded for Ballroom.
+=========================================================
+No spy win recorded for Ballroom.
+No spy loss recorded for Ballroom.
+No sniper win recorded for Ballroom.
+No sniper loss recorded for Ballroom.
+Mission Occurrence Percentages for Ballroom:
+  No Spy Missions recorded.
+  No Sniper Missions recorded.
+Game Outcome Percentages for Ballroom:
+  Spy Results:
+    No Spy games recorded.
+  Sniper Results:
+    No Sniper games recorded.
+=========================================================
+Courtyard : 0
+No Spy games recorded for Courtyard.
+No Sniper games recorded for Courtyard.
+=========================================================
+No spy win recorded for Courtyard.
+No spy loss recorded for Courtyard.
+No sniper win recorded for Courtyard.
+No sniper loss recorded for Courtyard.
+Mission Occurrence Percentages for Courtyard:
+  No Spy Missions recorded.
+  No Sniper Missions recorded.
+Game Outcome Percentages for Courtyard:
+  Spy Results:
+    No Spy games recorded.
+  Sniper Results:
+    No Sniper games recorded.
+=========================================================
+Gallery : 2
+Spy Win Percentage for Gallery: 0.00% | 0/1
+Sniper Win Percentage for Gallery: 100.00% | 1/1
+=========================================================
+No spy win recorded for Gallery.
+ Average Spy Loss Duration for Gallery: 3:30
+ Average Sniper Win Duration for Gallery: 1:18
+No sniper loss recorded for Gallery.
+Mission Occurrence Percentages for Gallery:
+  Spy Missions:
+    Bug Ambassador        : 0.00%
+    Contact Double Agent  : 0.00%
+    Transfer Microfilm    : 25.00%
+    Swap Statue           : 25.00%
+    Inspect Statues       : 25.00%
+    Seduce Target         : 25.00%
+    Purloin Guest List    : 0.00%
+    Fingerprint Ambassador: 0.00%
+  Sniper Missions:
+    Bug Ambassador        : 0.00%
+    Contact Double Agent  : 50.00%
+    Transfer Microfilm    : 0.00%
+    Swap Statue           : 0.00%
+    Inspect Statues       : 0.00%
+    Seduce Target         : 0.00%
+    Purloin Guest List    : 50.00%
+    Fingerprint Ambassador: 0.00%
+Game Outcome Percentages for Gallery:
+  Spy Results:
+    Civilian Shot: 0.00%
+    Missions Win : 0.00%
+    Spy Shot     : 100.00%
+    Time Out     : 0.00%
+  Sniper Results:
+    Civilian Shot: 0.00%
+    Missions Win : 0.00%
+    Spy Shot     : 100.00%
+    Time Out     : 0.00%
+=========================================================
+High-Rise : 0
+No Spy games recorded for High-Rise.
+No Sniper games recorded for High-Rise.
+=========================================================
+No spy win recorded for High-Rise.
+No spy loss recorded for High-Rise.
+No sniper win recorded for High-Rise.
+No sniper loss recorded for High-Rise.
+Mission Occurrence Percentages for High-Rise:
+  No Spy Missions recorded.
+  No Sniper Missions recorded.
+Game Outcome Percentages for High-Rise:
+  Spy Results:
+    No Spy games recorded.
+  Sniper Results:
+    No Sniper games recorded.
+=========================================================
+Library : 0
+No Spy games recorded for Library.
+No Sniper games recorded for Library.
+=========================================================
+No spy win recorded for Library.
+No spy loss recorded for Library.
+No sniper win recorded for Library.
+No sniper loss recorded for Library.
+Mission Occurrence Percentages for Library:
+  No Spy Missions recorded.
+  No Sniper Missions recorded.
+Game Outcome Percentages for Library:
+  Spy Results:
+    No Spy games recorded.
+  Sniper Results:
+    No Sniper games recorded.
+=========================================================
+Moderne : 2
+Spy Win Percentage for Moderne: 100.00% | 1/1
+Sniper Win Percentage for Moderne: 100.00% | 1/1
+=========================================================
+ Average Spy Win Duration for Moderne: 3:51
+No spy loss recorded for Moderne.
+ Average Sniper Win Duration for Moderne: 2:34
+No sniper loss recorded for Moderne.
+Mission Occurrence Percentages for Moderne:
+  Spy Missions:
+    Bug Ambassador        : 33.33%
+    Contact Double Agent  : 33.33%
+    Transfer Microfilm    : 0.00%
+    Swap Statue           : 0.00%
+    Inspect Statues       : 0.00%
+    Seduce Target         : 33.33%
+    Purloin Guest List    : 0.00%
+    Fingerprint Ambassador: 0.00%
+  Sniper Missions:
+    Bug Ambassador        : 0.00%
+    Contact Double Agent  : 0.00%
+    Transfer Microfilm    : 0.00%
+    Swap Statue           : 50.00%
+    Inspect Statues       : 0.00%
+    Seduce Target         : 50.00%
+    Purloin Guest List    : 0.00%
+    Fingerprint Ambassador: 0.00%
+Game Outcome Percentages for Moderne:
+  Spy Results:
+    Civilian Shot: 100.00%
+    Missions Win : 0.00%
+    Spy Shot     : 0.00%
+    Time Out     : 0.00%
+  Sniper Results:
+    Civilian Shot: 0.00%
+    Missions Win : 0.00%
+    Spy Shot     : 100.00%
+    Time Out     : 0.00%
+=========================================================
+Redwoods : 4
+Spy Win Percentage for Redwoods: 0.00% | 0/2
+Sniper Win Percentage for Redwoods: 100.00% | 2/2
+=========================================================
+No spy win recorded for Redwoods.
+ Average Spy Loss Duration for Redwoods: 4:05
+ Average Sniper Win Duration for Redwoods: 2:06
+No sniper loss recorded for Redwoods.
+Mission Occurrence Percentages for Redwoods:
+  Spy Missions:
+    Bug Ambassador        : 14.29%
+    Contact Double Agent  : 28.57%
+    Transfer Microfilm    : 0.00%
+    Swap Statue           : 14.29%
+    Inspect Statues       : 14.29%
+    Seduce Target         : 28.57%
+    Purloin Guest List    : 0.00%
+    Fingerprint Ambassador: 0.00%
+  Sniper Missions:
+    Bug Ambassador        : 0.00%
+    Contact Double Agent  : 0.00%
+    Transfer Microfilm    : 0.00%
+    Swap Statue           : 0.00%
+    Inspect Statues       : 0.00%
+    Seduce Target         : 100.00%
+    Purloin Guest List    : 0.00%
+    Fingerprint Ambassador: 0.00%
+Game Outcome Percentages for Redwoods:
+  Spy Results:
+    Civilian Shot: 0.00%
+    Missions Win : 0.00%
+    Spy Shot     : 100.00%
+    Time Out     : 0.00%
+  Sniper Results:
+    Civilian Shot: 0.00%
+    Missions Win : 0.00%
+    Spy Shot     : 100.00%
+    Time Out     : 0.00%
+=========================================================
+Teien : 0
+No Spy games recorded for Teien.
+No Sniper games recorded for Teien.
+=========================================================
+No spy win recorded for Teien.
+No spy loss recorded for Teien.
+No sniper win recorded for Teien.
+No sniper loss recorded for Teien.
+Mission Occurrence Percentages for Teien:
+  No Spy Missions recorded.
+  No Sniper Missions recorded.
+Game Outcome Percentages for Teien:
+  Spy Results:
+    No Spy games recorded.
+  Sniper Results:
+    No Sniper games recorded.
+=========================================================
+Terrace : 2
+Spy Win Percentage for Terrace: 100.00% | 1/1
+Sniper Win Percentage for Terrace: 100.00% | 1/1
+=========================================================
+ Average Spy Win Duration for Terrace: 1:16
+No spy loss recorded for Terrace.
+ Average Sniper Win Duration for Terrace: 2:02
+No sniper loss recorded for Terrace.
+Mission Occurrence Percentages for Terrace:
+  Spy Missions:
+    Bug Ambassador        : 0.00%
+    Contact Double Agent  : 33.33%
+    Transfer Microfilm    : 0.00%
+    Swap Statue           : 0.00%
+    Inspect Statues       : 0.00%
+    Seduce Target         : 33.33%
+    Purloin Guest List    : 33.33%
+    Fingerprint Ambassador: 0.00%
+  Sniper Missions:
+    Bug Ambassador        : 50.00%
+    Contact Double Agent  : 0.00%
+    Transfer Microfilm    : 0.00%
+    Swap Statue           : 0.00%
+    Inspect Statues       : 0.00%
+    Seduce Target         : 0.00%
+    Purloin Guest List    : 50.00%
+    Fingerprint Ambassador: 0.00%
+Game Outcome Percentages for Terrace:
+  Spy Results:
+    Civilian Shot: 0.00%
+    Missions Win : 100.00%
+    Spy Shot     : 0.00%
+    Time Out     : 0.00%
+  Sniper Results:
+    Civilian Shot: 0.00%
+    Missions Win : 0.00%
+    Spy Shot     : 100.00%
+    Time Out     : 0.00%
+=========================================================
+Veranda : 2
+Spy Win Percentage for Veranda: 0.00% | 0/1
+Sniper Win Percentage for Veranda: 100.00% | 1/1
+=========================================================
+No spy win recorded for Veranda.
+ Average Spy Loss Duration for Veranda: 3:00
+ Average Sniper Win Duration for Veranda: 1:46
+No sniper loss recorded for Veranda.
+Mission Occurrence Percentages for Veranda:
+  Spy Missions:
+    Bug Ambassador        : 33.33%
+    Contact Double Agent  : 33.33%
+    Transfer Microfilm    : 0.00%
+    Swap Statue           : 0.00%
+    Inspect Statues       : 33.33%
+    Seduce Target         : 0.00%
+    Purloin Guest List    : 0.00%
+    Fingerprint Ambassador: 0.00%
+  Sniper Missions:
+    Bug Ambassador        : 50.00%
+    Contact Double Agent  : 0.00%
+    Transfer Microfilm    : 50.00%
+    Swap Statue           : 0.00%
+    Inspect Statues       : 0.00%
+    Seduce Target         : 0.00%
+    Purloin Guest List    : 0.00%
+    Fingerprint Ambassador: 0.00%
+Game Outcome Percentages for Veranda:
+  Spy Results:
+    Civilian Shot: 0.00%
+    Missions Win : 0.00%
+    Spy Shot     : 100.00%
+    Time Out     : 0.00%
+  Sniper Results:
+    Civilian Shot: 0.00%
+    Missions Win : 0.00%
+    Spy Shot     : 100.00%
+    Time Out     : 0.00%
+Total Games: 12
+Venue Win Rates:
+Aquarium  |   0: Spy Win Rate:  0.00%, Sniper Win Rate:  0.00%
+Balcony   |   0: Spy Win Rate:  0.00%, Sniper Win Rate:  0.00%
+Ballroom  |   0: Spy Win Rate:  0.00%, Sniper Win Rate:  0.00%
+Courtyard |   0: Spy Win Rate:  0.00%, Sniper Win Rate:  0.00%
+Gallery   |   2: Spy Win Rate:  0.00%, Sniper Win Rate: 100.00%
+High-Rise |   0: Spy Win Rate:  0.00%, Sniper Win Rate:  0.00%
+Library   |   0: Spy Win Rate:  0.00%, Sniper Win Rate:  0.00%
+Moderne   |   2: Spy Win Rate: 100.00%, Sniper Win Rate: 100.00%
+Redwoods  |   4: Spy Win Rate:  0.00%, Sniper Win Rate: 100.00%
+Teien     |   0: Spy Win Rate:  0.00%, Sniper Win Rate:  0.00%
+Terrace   |   2: Spy Win Rate: 100.00%, Sniper Win Rate: 100.00%
+Veranda   |   2: Spy Win Rate:  0.00%, Sniper Win Rate: 100.00%
+
+Spy Rate:           Sniper Rate:        Mean Rate:       
+Moderne   100.00%   Gallery   100.00%   Moderne   100.00%   
+Terrace   100.00%   Moderne   100.00%   Terrace   100.00%   
+Aquarium    0.00%   Redwoods  100.00%   Gallery    50.00%   
+Balcony     0.00%   Terrace   100.00%   Redwoods   50.00%   
+Ballroom    0.00%   Veranda   100.00%   Veranda    50.00%   
+Courtyard   0.00%   Aquarium    0.00%   Aquarium    0.00%   
+Gallery     0.00%   Balcony     0.00%   Balcony     0.00%   
+High-Rise   0.00%   Ballroom    0.00%   Ballroom    0.00%   
+Library     0.00%   Courtyard   0.00%   Courtyard   0.00%   
+Redwoods    0.00%   High-Rise   0.00%   High-Rise   0.00%   
+Teien       0.00%   Library     0.00%   Library     0.00%   
+Veranda     0.00%   Teien       0.00%   Teien       0.00%   
