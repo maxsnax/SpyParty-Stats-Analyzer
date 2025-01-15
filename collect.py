@@ -354,7 +354,7 @@ for i in range(len(venue_win_rates_with_mean)):
 
 # gonna save it to a .txt file now
 base_file_name = '-'.join([name.replace('/steam', '') for name in player_search])
-file_directory = r'Matches'
+file_directory = r'Stats-Text-Files'
 file_extension = '.txt'
 file_number = 0  # Starting number
 
